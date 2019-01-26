@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Evento</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="p">Create Account</string>
+    <string name="n">No account yet? Create one</string>
+    <string name="m">Already a member? Login</string>
+    <string name="title">Evento</string>
+    <string name="title2"> for college events</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
